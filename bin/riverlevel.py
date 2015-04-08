@@ -32,4 +32,4 @@ for river in temp:
         if norms:
             print 'lownorm is "'+norms.group(1) +'" highnorm is "' + norms.group(2) + '"'
         if highest: 
-            print 'highestRecorded is "' + highest.group(1) + '" recentHighest is "' + highest.group(2) + '" recentHighestDate is"' + highest.group(3) + '"'
+            print 'highestRecorded is "' + highest.group(1) + '" recentHighest is "' + highest.group(2) + '" recentHighestDate is "' + highest.group(3) + '"'

@@ -1,6 +1,5 @@
 <nav search_view="search" color="#65A637">
-  <view name="river_levels" default='true' />
-  <view name="search" />
+  <view name="search" default='true'/>
   
   <view name="data_models" />
   <view name="reports" />
