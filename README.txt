@@ -13,5 +13,5 @@ $splunkhome/etc/app/splunk_ukriverlevels_training/bin/rivers
 
 To install via git
 cd $splunkhome/etc/app/
-git clone git@github.com:stash1001/splunk_ukriverlevels_training.git
+git clone https://github.com/stash1001/splunk_ukriverlevels_training.git
 restart splunk
